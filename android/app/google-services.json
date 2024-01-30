@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540767769043",
+    "project_id": "fir-crude-one",
+    "storage_bucket": "fir-crude-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540767769043:android:fec60f1a007fe015279f26",
+        "android_client_info": {
+          "package_name": "com.example.crud_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34x-pUz8gCgfLI6smbHj4p3BWoOs4JxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
